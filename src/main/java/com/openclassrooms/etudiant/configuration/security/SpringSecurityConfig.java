@@ -1,4 +1,4 @@
-package com.openclassrooms.etudiant.configuration;
+package com.openclassrooms.etudiant.configuration.security;
 
 import jakarta.servlet.http.HttpServletResponse;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,4 +1,4 @@
-package com.openclassrooms.etudiant.configuration;
+package com.openclassrooms.etudiant.configuration.security;
 
 import com.openclassrooms.etudiant.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
